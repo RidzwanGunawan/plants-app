@@ -142,5 +142,4 @@ Jika kamu ingin menambahkan Continuous Integration/Continuous Deployment (CI/CD)
 
 Jika kamu memiliki pertanyaan lebih lanjut atau perlu bantuan, silakan buka [issues](https://github.com/username/repo-kamu/issues) di repositori ini.
 
-```
 
