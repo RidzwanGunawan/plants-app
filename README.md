@@ -144,5 +144,3 @@ Jika kamu memiliki pertanyaan lebih lanjut atau perlu bantuan, silakan buka [iss
 
 ```
 
----
-
