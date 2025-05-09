@@ -131,15 +131,3 @@ Berikut adalah tools dan teknologi yang digunakan dalam proyek ini:
 ## 📄 Lisensi
 
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
----
-
-### 🚀 Panduan Tambahan
-
-Jika kamu ingin menambahkan Continuous Integration/Continuous Deployment (CI/CD) atau menggunakan model Hugging Face untuk penggunaan lain seperti **speech-to-text** atau **text generation**, kamu bisa memperbarui file konfigurasi atau API calls sesuai dengan kebutuhan.
-
----
-
-Jika kamu memiliki pertanyaan lebih lanjut atau perlu bantuan, silakan buka [issues](https://github.com/username/repo-kamu/issues) di repositori ini.
-
-
