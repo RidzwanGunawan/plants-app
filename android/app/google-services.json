@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "86556712053",
+    "project_id": "plants-app-e4c73",
+    "storage_bucket": "plants-app-e4c73.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86556712053:android:e5e5b1753356cf60aa2c3c",
+        "android_client_info": {
+          "package_name": "com.example.plants_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86556712053-fv0hh0so2qotgi9smr95vrsvnsn8d3ts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plants_app",
+            "certificate_hash": "28a3b249b0bebbeef1295ccac9162025660b658a"
+          }
+        },
+        {
+          "client_id": "86556712053-11qvsq502embm8r310i13nkstu9eeq15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEsD4K_9l08MbrFL1081ROLenKzzJyN4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86556712053-11qvsq502embm8r310i13nkstu9eeq15.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "86556712053-87jocmb9vq3j5mjbc4bcmencp1civb8g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.plantsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
